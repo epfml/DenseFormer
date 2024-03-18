@@ -1,8 +1,8 @@
 # Dataset folder
-src/data/datasets/
-wandb/
-exps/
-scripts/
+experiments/data/datasets/
+experiments/wandb/
+experiments/exps/
+experiments/scripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
